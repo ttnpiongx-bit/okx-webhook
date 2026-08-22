@@ -1,4 +1,6 @@
-`my_config.py`、`.env`、`*.log`
+my_config.py
+.env
+*.log
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
