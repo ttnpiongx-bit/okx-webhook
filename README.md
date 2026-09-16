@@ -10,7 +10,7 @@ Running with real (small) money since **August 2026**. Single file, no database,
 no cloud account required — runs on a normal Windows/Linux PC behind a
 `cloudflared` tunnel.
 
-![dashboard](docs/dashboard.png)
+![dashboard](dashboard.png)
 
 ## What it does
 
